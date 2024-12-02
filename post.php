@@ -7,7 +7,7 @@ include "view-header.php";
 <form method="post" action="post-result.php">
 
   <input type="text" name="my-name">
-  <input type="sumbit" value="Post data">
+  <input type="submit" value="Post data">
     
 </form>
    <?php
